@@ -1,2 +1,12 @@
-Hi there! 👋
-<!-- **Leehanyoung2000/Leehanyoung2000** is a ✨special✨ repository because this `README.md` file appears on my GitHub profile. Here are some ideas to get you started! - 🔭 Currently working on: ... - 🌱 Currently learning: Python, Django, JavaScript - 👯 Looking to collaborate on: ... - 🤔 Looking for help with: ... - 💬 Ask me about: ... - 📫 How to reach me: lhy20211215@gmail.com - 😄 Pronouns: ... - ⚡ Fun fact: ... -->
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
