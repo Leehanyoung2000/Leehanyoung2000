@@ -5,7 +5,7 @@
 
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTYwM3c4bWFjdG1zZ3dkYWg0bXF2b2w5ZnRmaXVjbWw0dDZyanIxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const thai = {
