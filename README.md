@@ -1,4 +1,4 @@
-<h2> 안녕하세요 신입 개발자 이한영입니다! <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJhMjl6MmFwanExYXJlNHczenFrZHN6amRvcmNldjR4cXF3ZTl6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZqlvCTNHpqrio/giphy.gif)" width="50"></h2>
+<h2> 안녕하세요 신입 개발자 이한영입니다! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJhMjl6MmFwanExYXJlNHczenFrZHN6amRvcmNldjR4cXF3ZTl6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZqlvCTNHpqrio/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Python을 주로 사용하고 있습니다. <a href="[http://www.unb.br](https://www.python.org/)">
 </em></p>
