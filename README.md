@@ -6,18 +6,13 @@
 ### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTYwM3c4bWFjdG1zZ3dkYWg0bXF2b2w5ZnRmaXVjbWw0dDZyanIxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+const user = {
+  pronouns: "he" | "his",
+  languages: ["Python", "JavaScript", "HTML", "CSS"],
+  tools: ["Django", "Linux", "Git"],
+  architecture: ["REST API", "MVC Pattern"],
 }
+
 ```
 
 
